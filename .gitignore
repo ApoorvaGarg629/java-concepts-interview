@@ -1,0 +1,60 @@
+# Java build and IDE files
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Package files
+*.jar
+*.war
+*.ear
+*.nar
+*.zip
+*.tar.gz
+*.rar
+
+# Virtual machine crash logs
+hs_err_pid*
+
+# Maven
+/target/
+/.mvn/timing.properties
+dependency-reduced-pom.xml
+
+# Gradle
+/.gradle/
+/build/
+!gradle-wrapper.jar
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+
+# IntelliJ
+*.iml
+/.idea/
+/out/
+
+# Eclipse
+.classpath
+.project
+/.settings/
+
+# VS Code
+/.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Others
+coverage-reports/
+*.class
+
+# Ignore temporary files
+*~
+*.swp
