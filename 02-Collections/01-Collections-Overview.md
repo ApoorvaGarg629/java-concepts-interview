@@ -16,8 +16,7 @@
 ├── 02-List/
 │   ├── 01-ArrayList.md
 │   ├── 02-LinkedList.md
-│   ├── 03-Vector.md
-│   └── 04-Stack.md
+│   └── 03-Stack.md
 │
 ├── 03-Set/
 │   ├── 01-HashSet.md
@@ -314,7 +313,6 @@ To perform common operations like sorting, reversing, shuffling, finding min/max
 
 - [ArrayList](02-Collections/02-List/01-ArrayList.md)
 - [LinkedList](02-Collections/02-List/02-LinkedList.md)
-- [Vector](02-Collections/02-List/03-Vector.md)
 - [Stack](02-Collections/02-List/04-Stack.md)
 
 ## Set Implementations
@@ -339,14 +337,15 @@ To perform common operations like sorting, reversing, shuffling, finding min/max
 - [ConcurrentHashMap](02-Collections/05-Map/05-ConcurrentHashMap.md)
 - [EnumMap](02-Collections/05-Map/06-EnumMap.md)
 
-## Iterators & Sorting
+## Utilities
 
-- [Iterator](02-Collections/06-Iterators/01-Iterator.md)
-- [ListIterator](02-Collections/06-Iterators/02-ListIterator.md)
-- [Fail Fast vs Fail Safe](02-Collections/06-Iterators/03-FailFast-vs-FailSafe.md)
-- [Comparable](02-Collections/07-Sorting/01-Comparable.md)
-- [Comparator](02-Collections/07-Sorting/02-Comparator.md)
-- [Collections Utility Class](02-Collections/08-Utilities/01-Collections-Class.md)
+
+- [Iterator](02-Collections/06-Utilities/01-Iterator.md)
+- [ListIterator](02-Collections/06-Utilities/02-ListIterator.md)
+- [Fail Fast vs Fail Safe](02-Collections/06-Utilities/03-FailFast-vs-FailSafe.md)
+- [Comparable](02-Collections/06-Utilities/04-Comparable.md)
+- [Comparator](02-Collections/06-Utilities/05-Comparator.md)
+- [Collections Utility Class](02-Collections/06-Utilities/06-Collections-Class.md)
 
 ## Internal Working
 

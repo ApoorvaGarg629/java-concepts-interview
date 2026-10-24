@@ -20,17 +20,28 @@ A structured collection of Java Core & Advanced concepts for interview preparati
 - [06. Comparable vs Comparator](02-Collections/06-Comparable-vs-Comparator.md)
 - [07. Internal Working of Data Structures](02-Collections/07-Internal-Working.md)
 
-## Advanced Java
+## Memory Management
 
-- [01. Multithreading](03-Advanced-Java/01-Multithreading.md)
-- [02. Concurrency](03-Advanced-Java/02-Concurrency.md)
-- [03. JVM Architecture](03-Advanced-Java/03-JVM-Architecture.md)
-- [04. Memory Management & Garbage Collection](03-Advanced-Java/04-Memory-Management.md)
+- [01. JVM Architecture](03-Memory-Management/01-JVM-Architecture.md)
+- [02. JVM Memory](03-Memory-Management/02-JVM-Memory.md)
+- [03. JVM Execution](03-Memory-Management/03-JVM-Execution.md)
+- [04. Garbage Collection](03-Memory-Management/04-Garbage-Collection.md)
+- [05. Java Memory Model](03-Memory-Management/05-Java-Memory-Model.md)
+- 
 - [05. Reflection API](03-Advanced-Java/05-Reflection.md)
 - [06. Annotations](03-Advanced-Java/06-Annotations.md)
 - [07. Serialization](03-Advanced-Java/07-Serialization.md)
 - [08. Java I/O & NIO](03-Advanced-Java/08-Java-IO-NIO.md)
 
+## Multithreading
+
+- [01. Thread Fundamentals](04-Multithreading/01-Thread-Fundamentals.md)
+- [02. Thread Synchronization](04-Multithreading/02-Thread-Synchronization.md)
+- [03. Thread Safety](04-Multithreading/03-Thread-Safety.md)
+- [04. Executors and Futures](04-Multithreading/04-Executors-and-Futures.md)
+- [05. Locks and Concurrency Control](04-Multithreading/05-Locks-and-Concurrency-Control.md)
+- [06. Concurrency Problems](04-Multithreading/06-Concurrency-Problems.md)
+- [07. Threading Interview Scenarios](04-Multithreading/07-Threading-Interview-Scenarios.md)
 ## Java 8+
 
 - [01. Lambda Expressions](04-Java-8/01-Lambda.md)
